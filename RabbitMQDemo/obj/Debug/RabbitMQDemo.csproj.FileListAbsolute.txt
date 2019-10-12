@@ -1,0 +1,12 @@
+C:\Users\taoyu\source\repos\RabbitMQDemo\bin\Debug\RabbitMQDemo.exe.config
+C:\Users\taoyu\source\repos\RabbitMQDemo\bin\Debug\RabbitMQDemo.exe
+C:\Users\taoyu\source\repos\RabbitMQDemo\bin\Debug\RabbitMQDemo.pdb
+C:\Users\taoyu\source\repos\RabbitMQDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\taoyu\source\repos\RabbitMQDemo\bin\Debug\RabbitMQ.Client.dll
+C:\Users\taoyu\source\repos\RabbitMQDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\taoyu\source\repos\RabbitMQDemo\bin\Debug\RabbitMQ.Client.xml
+C:\Users\taoyu\source\repos\RabbitMQDemo\obj\Debug\RabbitMQDemo.csprojAssemblyReference.cache
+C:\Users\taoyu\source\repos\RabbitMQDemo\obj\Debug\RabbitMQDemo.csproj.CoreCompileInputs.cache
+C:\Users\taoyu\source\repos\RabbitMQDemo\obj\Debug\RabbitMQDemo.csproj.CopyComplete
+C:\Users\taoyu\source\repos\RabbitMQDemo\obj\Debug\RabbitMQDemo.exe
+C:\Users\taoyu\source\repos\RabbitMQDemo\obj\Debug\RabbitMQDemo.pdb
