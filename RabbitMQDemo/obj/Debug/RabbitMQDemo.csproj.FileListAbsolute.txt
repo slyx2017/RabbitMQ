@@ -10,3 +10,15 @@ C:\Users\taoyu\source\repos\RabbitMQDemo\obj\Debug\RabbitMQDemo.csproj.CoreCompi
 C:\Users\taoyu\source\repos\RabbitMQDemo\obj\Debug\RabbitMQDemo.csproj.CopyComplete
 C:\Users\taoyu\source\repos\RabbitMQDemo\obj\Debug\RabbitMQDemo.exe
 C:\Users\taoyu\source\repos\RabbitMQDemo\obj\Debug\RabbitMQDemo.pdb
+D:\RabbitMQ-master\RabbitMQ\RabbitMQDemo\bin\Debug\RabbitMQDemo.exe.config
+D:\RabbitMQ-master\RabbitMQ\RabbitMQDemo\bin\Debug\RabbitMQDemo.exe
+D:\RabbitMQ-master\RabbitMQ\RabbitMQDemo\bin\Debug\RabbitMQDemo.pdb
+D:\RabbitMQ-master\RabbitMQ\RabbitMQDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\RabbitMQ-master\RabbitMQ\RabbitMQDemo\bin\Debug\RabbitMQ.Client.dll
+D:\RabbitMQ-master\RabbitMQ\RabbitMQDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\RabbitMQ-master\RabbitMQ\RabbitMQDemo\bin\Debug\RabbitMQ.Client.xml
+D:\RabbitMQ-master\RabbitMQ\RabbitMQDemo\obj\Debug\RabbitMQDemo.csprojAssemblyReference.cache
+D:\RabbitMQ-master\RabbitMQ\RabbitMQDemo\obj\Debug\RabbitMQDemo.csproj.CoreCompileInputs.cache
+D:\RabbitMQ-master\RabbitMQ\RabbitMQDemo\obj\Debug\RabbitMQDemo.csproj.CopyComplete
+D:\RabbitMQ-master\RabbitMQ\RabbitMQDemo\obj\Debug\RabbitMQDemo.exe
+D:\RabbitMQ-master\RabbitMQ\RabbitMQDemo\obj\Debug\RabbitMQDemo.pdb

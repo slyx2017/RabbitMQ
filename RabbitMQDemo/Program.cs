@@ -27,18 +27,21 @@ namespace RabbitMQDemo
                         //在MQ上定义一个持久化队列，如果名称相同不会重复创建
                         channel.QueueDeclare("MyRabbitMQ", true, false, false, null);
                         Console.WriteLine("请输入内容...");
-                        while (true)
+                        for (int i = 0; i < 100*10000; i++)
                         {
-                            //传递的消息内容
-                            string message = string.Format("Message_{0}", Console.ReadLine());
-                            var body = Encoding.UTF8.GetBytes(message);
-                            var properties = channel.CreateBasicProperties();
-                            properties.DeliveryMode = 2;
+                           
+                                //传递的消息内容
+                                string message = string.Format("Message_{0}", i);
+                                var body = Encoding.UTF8.GetBytes(message);
+                                var properties = channel.CreateBasicProperties();
+                                properties.DeliveryMode = 2;
 
-                            //开始传递
-                            channel.BasicPublish("", "MyRabbitMQ", properties, body);
-                            Console.WriteLine("消息发送成功：{0}", message);
+                                //开始传递
+                                channel.BasicPublish("", "MyRabbitMQ", properties, body);
+                                Console.WriteLine("消息发送成功：{0}", message);
+                            
                         }
+                        
                     }
                 }
             }
@@ -65,7 +68,7 @@ namespace RabbitMQDemo
 
                         while (true)
                         {
-                            var ea = (BasicDeliverEventArgs)consumer.Queue.Dequeue();
+                            var ea = consumer.Queue.Dequeue();
                             var body = ea.Body;
                             string message = Encoding.UTF8.GetString(body);
 
